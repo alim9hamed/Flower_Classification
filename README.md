@@ -2,6 +2,8 @@
 
 This project builds an image classifier to identify flower types using transfer learning on the Xception model, fine-tuning it with custom layers for improved classification accuracy. The model is trained on the [TF Flowers dataset](https://www.tensorflow.org/datasets/catalog/tf_flowers), which consists of various flower images. The implementation leverages TensorFlow, TensorFlow Datasets, and OpenCV for image handling, data processing, and model training.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12V7CvZBTypGQ9iY7vvh_LhqVgL2xEBDX?usp=sharing)
+
 ## Table of Contents
 1. [Dataset Preparation](#dataset-preparation)
 2. [Model Architecture](#model-architecture)
